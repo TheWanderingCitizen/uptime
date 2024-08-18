@@ -22,35 +22,39 @@
     "url": "https://42kit.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1653,
-    "timeDay": 1653,
-    "timeWeek": 1653,
-    "timeMonth": 1653,
-    "timeYear": 1653,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1281,
+    "timeDay": 1281,
+    "timeWeek": 1281,
+    "timeMonth": 1281,
+    "timeYear": 1281,
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   },
   {
     "name": "Passport Service",
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2037,
-    "timeDay": 2037,
-    "timeWeek": 2037,
-    "timeMonth": 2037,
-    "timeYear": 2037,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1543,
+    "timeDay": 1543,
+    "timeWeek": 1543,
+    "timeMonth": 1543,
+    "timeYear": 1543,
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   }
 ]
