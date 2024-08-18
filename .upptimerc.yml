@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Citizenwiki
-    url: https://citizenwiki.cn
+    url: "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home"
   - name: Citizenwiki 42Kit
     url: https://42kit.citizenwiki.cn
   - name: Passport Service
