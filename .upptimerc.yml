@@ -17,8 +17,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Citizenwiki Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Any server downtimes will be reported here, and get addressed by our team member within 48 hours.
+  introTitle: "Welcome to Citizenwiki status page."
+  introMessage: "Any server downtime will be reported here and will be resolved by our team members within 48 hours. If you encounter any issues while using our services, please contact us through our Discord server: https://discord.gg/y2gtHaNJUk or QQ group: 669376880."
   navbar:
     - title: Status
       href: /
