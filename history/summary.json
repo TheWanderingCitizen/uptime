@@ -4,19 +4,19 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "74.28%",
+    "uptimeDay": "74.28%",
+    "uptimeWeek": "74.28%",
+    "uptimeMonth": "74.28%",
+    "uptimeYear": "74.28%",
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 27
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
     "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "97.01%",
+    "uptime": "72.20%",
+    "uptimeDay": "72.20%",
+    "uptimeWeek": "72.20%",
+    "uptimeMonth": "72.20%",
+    "uptimeYear": "72.20%",
     "time": 1095,
     "timeDay": 1095,
     "timeWeek": 1095,
     "timeMonth": 1095,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-08-18": 2
+      "2024-08-18": 29
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-service",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
-    "time": 1257,
-    "timeDay": 1257,
-    "timeWeek": 1257,
-    "timeMonth": 1257,
-    "timeYear": 1257,
+    "status": "up",
+    "uptime": "72.27%",
+    "uptimeDay": "72.27%",
+    "uptimeWeek": "72.27%",
+    "uptimeMonth": "72.27%",
+    "uptimeYear": "72.27%",
+    "time": 1079,
+    "timeDay": 1079,
+    "timeWeek": 1079,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2024-08-18": 2
+      "2024-08-18": 29
     }
   }
 ]
