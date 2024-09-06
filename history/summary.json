@@ -4,18 +4,20 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 624,
     "timeDay": 763,
     "timeWeek": 687,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 2
+    }
   },
   {
     "name": "Citizenwiki 42Kit",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 731,
     "timeDay": 760,
     "timeWeek": 609,
@@ -42,27 +44,29 @@
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 641,
-    "timeWeek": 536,
-    "timeMonth": 524,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "time": 515,
+    "timeDay": 480,
+    "timeWeek": 509,
+    "timeMonth": 515,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2024-09-06": 1
+    }
   },
   {
     "name": "42Kit Weblate",
     "url": "https://translate.42kit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 324,
     "timeMonth": 305,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   }
 ]
