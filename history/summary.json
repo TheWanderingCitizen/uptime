@@ -4,19 +4,19 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 624,
-    "timeDay": 763,
-    "timeWeek": 687,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 622,
+    "timeDay": 673,
+    "timeWeek": 674,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2024-09-06": 2
+      "2024-09-06": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 480,
-    "timeWeek": 509,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 520,
+    "timeDay": 534,
+    "timeWeek": 524,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-09-06": 1
+      "2024-09-06": 4
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://translate.42kit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 315,
-    "timeWeek": 324,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 308,
+    "timeDay": 346,
+    "timeWeek": 330,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 4
     }
   }
 ]
