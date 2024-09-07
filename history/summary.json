@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 622,
-    "timeDay": 673,
-    "timeWeek": 674,
-    "timeMonth": 622,
-    "timeYear": 622,
-    "dailyMinutesDown": {
-      "2024-09-06": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 544,
+    "timeWeek": 646,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Citizenwiki 42Kit",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 731,
-    "timeDay": 760,
-    "timeWeek": 609,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "time": 720,
+    "timeDay": 423,
+    "timeWeek": 563,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2024-08-18": 48
     }
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 520,
-    "timeDay": 534,
-    "timeWeek": 524,
-    "timeMonth": 520,
-    "timeYear": 520,
-    "dailyMinutesDown": {
-      "2024-09-06": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 515,
+    "timeDay": 452,
+    "timeWeek": 497,
+    "timeMonth": 515,
+    "timeYear": 515,
+    "dailyMinutesDown": {}
   },
   {
     "name": "42Kit Weblate",
@@ -65,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 308,
-    "timeDay": 346,
-    "timeWeek": 330,
-    "timeMonth": 308,
-    "timeYear": 308,
-    "dailyMinutesDown": {
-      "2024-09-06": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 306,
+    "timeDay": 313,
+    "timeWeek": 314,
+    "timeMonth": 306,
+    "timeYear": 306,
+    "dailyMinutesDown": {}
   }
 ]
