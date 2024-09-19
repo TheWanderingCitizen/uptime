@@ -42,18 +42,20 @@
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 483,
-    "timeWeek": 578,
-    "timeMonth": 530,
-    "timeYear": 523,
-    "dailyMinutesDown": {}
+    "time": 517,
+    "timeDay": 395,
+    "timeWeek": 544,
+    "timeMonth": 523,
+    "timeYear": 517,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "42Kit Weblate",
