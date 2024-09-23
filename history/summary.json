@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 589,
-    "timeWeek": 740,
-    "timeMonth": 663,
-    "timeYear": 646,
+    "time": 647,
+    "timeDay": 651,
+    "timeWeek": 725,
+    "timeMonth": 661,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 693,
-    "timeDay": 421,
-    "timeWeek": 709,
-    "timeMonth": 674,
-    "timeYear": 693,
+    "uptimeYear": "99.91%",
+    "time": 697,
+    "timeDay": 865,
+    "timeWeek": 717,
+    "timeMonth": 632,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2024-08-18": 48
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 439,
-    "timeWeek": 520,
-    "timeMonth": 522,
-    "timeYear": 515,
+    "time": 521,
+    "timeDay": 767,
+    "timeWeek": 546,
+    "timeMonth": 525,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 182,
-    "timeWeek": 322,
+    "time": 309,
+    "timeDay": 398,
+    "timeWeek": 334,
     "timeMonth": 313,
-    "timeYear": 306,
+    "timeYear": 309,
     "dailyMinutesDown": {}
   }
 ]
