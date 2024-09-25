@@ -5,38 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 657,
     "timeDay": 763,
     "timeWeek": 729,
     "timeMonth": 681,
     "timeYear": 657,
-    "dailyMinutesDown": {
-      "2024-09-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Citizenwiki 42Kit",
     "url": "https://42kit.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.48%",
-    "time": 1109,
-    "timeDay": 2523,
-    "timeWeek": 1763,
-    "timeMonth": 1180,
-    "timeYear": 1109,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.45%",
+    "time": 1149,
+    "timeDay": 2465,
+    "timeWeek": 1836,
+    "timeMonth": 1228,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-09-25": 82,
+      "2024-09-25": 101,
       "2024-09-24": 159,
       "2024-08-18": 48
     }
@@ -47,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 975,
     "timeDay": 7524,
     "timeWeek": 2412,
     "timeMonth": 1090,
     "timeYear": 975,
-    "dailyMinutesDown": {
-      "2024-09-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "42Kit Weblate",
@@ -67,18 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 272,
     "timeWeek": 302,
     "timeMonth": 316,
     "timeYear": 306,
-    "dailyMinutesDown": {
-      "2024-09-25": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
