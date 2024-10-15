@@ -4,19 +4,19 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.94%",
-    "time": 670,
-    "timeDay": 829,
-    "timeWeek": 741,
-    "timeMonth": 712,
-    "timeYear": 670,
+    "time": 669,
+    "timeDay": 729,
+    "timeWeek": 730,
+    "timeMonth": 709,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-10-15": 8,
+      "2024-10-15": 12,
       "2024-10-11": 40
     }
   },
@@ -27,9 +27,9 @@
     "slug": "citizenwiki-42-kit",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.61%",
     "time": 1841,
     "timeDay": 6972,
@@ -37,7 +37,6 @@
     "timeMonth": 2609,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2024-10-15": 7,
       "2024-10-07": 18,
       "2024-09-25": 101,
       "2024-09-24": 159,
@@ -50,19 +49,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 559,
     "timeWeek": 468,
     "timeMonth": 1116,
     "timeYear": 828,
-    "dailyMinutesDown": {
-      "2024-10-15": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "42Kit Weblate",
@@ -71,17 +68,15 @@
     "slug": "42-kit-weblate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
     "timeDay": 390,
     "timeWeek": 336,
     "timeMonth": 312,
     "timeYear": 307,
-    "dailyMinutesDown": {
-      "2024-10-15": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
