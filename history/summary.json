@@ -27,7 +27,7 @@
     "url": "https://42kit.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 3191,
     "timeYear": 2114,
     "dailyMinutesDown": {
+      "2024-11-09": 0,
       "2024-10-25": 432,
       "2024-10-24": 462,
       "2024-10-07": 18,
