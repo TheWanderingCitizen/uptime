@@ -60,7 +60,7 @@
     "url": "https://passport.citizenwiki.cn",
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "96.78%",
     "uptimeWeek": "99.54%",
