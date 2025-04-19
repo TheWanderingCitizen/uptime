@@ -39,7 +39,7 @@
     "slug": "citizenwiki-42-kit",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.56%",
@@ -49,6 +49,7 @@
     "timeMonth": 3339,
     "timeYear": 2890,
     "dailyMinutesDown": {
+      "2025-04-19": 0,
       "2025-04-12": 20,
       "2025-03-11": 1249,
       "2025-03-06": 17,
