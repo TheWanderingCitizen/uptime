@@ -1,7 +1,7 @@
 url: https://passport.citizenwiki.cn
-status: down
-code: 504
-responseTime: 7837
-lastUpdated: 2025-06-29T00:57:06.934Z
+status: up
+code: 200
+responseTime: 3059
+lastUpdated: 2025-06-29T05:35:24.629Z
 startTime: 2024-08-18T09:29:55.200Z
 generator: Upptime <https://github.com/upptime/upptime>
