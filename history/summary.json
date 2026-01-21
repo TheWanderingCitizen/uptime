@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "down",
-    "uptime": "96.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "94.62%",
-    "time": 1148,
-    "timeDay": 671,
-    "timeWeek": 3525,
-    "timeMonth": 2812,
-    "timeYear": 1269,
+    "uptime": "95.97%",
+    "uptimeDay": "19.00%",
+    "uptimeWeek": "87.84%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "94.40%",
+    "time": 1147,
+    "timeDay": 206,
+    "timeWeek": 3463,
+    "timeMonth": 2799,
+    "timeYear": 1268,
     "dailyMinutesDown": {
-      "2026-01-20": 0,
+      "2026-01-21": 113,
+      "2026-01-20": 1053,
       "2026-01-18": 15,
       "2026-01-14": 44,
       "2026-01-09": 33,
@@ -74,8 +75,7 @@
       "2025-04-21": 27,
       "2025-04-20": 38,
       "2025-04-12": 20,
-      "2025-03-20": 28,
-      "2025-01-21": 806
+      "2025-03-20": 28
     }
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.06%",
-    "time": 3503,
-    "timeDay": 3098,
-    "timeWeek": 2899,
-    "timeMonth": 3301,
-    "timeYear": 3695,
+    "time": 3502,
+    "timeDay": 3140,
+    "timeWeek": 2866,
+    "timeMonth": 3331,
+    "timeYear": 3697,
     "dailyMinutesDown": {
       "2025-12-28": 15,
       "2025-12-25": 33,
@@ -116,8 +116,7 @@
       "2025-04-12": 20,
       "2025-03-11": 1249,
       "2025-03-06": 17,
-      "2025-02-09": 115,
-      "2025-01-21": 796
+      "2025-02-09": 115
     }
   },
   {
@@ -126,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "down",
-    "uptime": "91.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "88.18%",
-    "time": 2657,
-    "timeDay": 466,
-    "timeWeek": 578,
+    "uptime": "91.53%",
+    "uptimeDay": "18.99%",
+    "uptimeWeek": "88.43%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "87.96%",
+    "time": 2656,
+    "timeDay": 230,
+    "timeWeek": 528,
     "timeMonth": 1622,
-    "timeYear": 2843,
+    "timeYear": 2840,
     "dailyMinutesDown": {
-      "2026-01-20": 0,
+      "2026-01-21": 113,
+      "2026-01-20": 1053,
       "2025-12-25": 32,
       "2025-12-15": 116,
       "2025-11-20": 96,
@@ -199,8 +199,7 @@
       "2025-04-18": 17,
       "2025-04-12": 19,
       "2025-03-06": 20,
-      "2025-02-09": 122,
-      "2025-01-21": 805
+      "2025-02-09": 122
     }
   },
   {
@@ -214,10 +213,10 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.55%",
-    "time": 615,
-    "timeDay": 328,
-    "timeWeek": 776,
-    "timeMonth": 1425,
+    "time": 614,
+    "timeDay": 272,
+    "timeWeek": 771,
+    "timeMonth": 1429,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2026-01-18": 15,
@@ -234,8 +233,7 @@
       "2025-06-29": 278,
       "2025-05-07": 318,
       "2025-05-06": 16,
-      "2025-04-24": 29,
-      "2025-01-21": 805
+      "2025-04-24": 29
     }
   }
 ]
