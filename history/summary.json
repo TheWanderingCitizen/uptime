@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "up",
-    "uptime": "79.84%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "65.76%",
-    "time": 1099,
-    "timeDay": 429,
-    "timeWeek": 287,
-    "timeMonth": 272,
-    "timeYear": 1171,
+    "uptime": "79.87%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "12.28%",
+    "uptimeMonth": "4.21%",
+    "uptimeYear": "65.80%",
+    "time": 1105,
+    "timeDay": 2408,
+    "timeWeek": 805,
+    "timeMonth": 403,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2026-05-06": 379,
       "2026-05-05": 1440,
@@ -173,8 +173,7 @@
       "2025-07-04": 227,
       "2025-07-03": 314,
       "2025-06-29": 279,
-      "2025-05-24": 20,
-      "2025-05-07": 317
+      "2025-05-24": 20
     }
   },
   {
@@ -183,16 +182,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/42kit.citizenwiki.cn.ico",
     "slug": "citizenwiki-42-kit",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
-    "time": 3470,
-    "timeDay": 2735,
-    "timeWeek": 2453,
-    "timeMonth": 2404,
-    "timeYear": 3430,
+    "uptimeYear": "99.28%",
+    "time": 3469,
+    "timeDay": 1891,
+    "timeWeek": 2439,
+    "timeMonth": 2384,
+    "timeYear": 3407,
     "dailyMinutesDown": {
       "2026-03-08": 316,
       "2026-03-07": 901,
@@ -211,8 +210,7 @@
       "2025-07-03": 312,
       "2025-06-29": 256,
       "2025-05-13": 19,
-      "2025-05-08": 18,
-      "2025-05-07": 317
+      "2025-05-08": 18
     }
   },
   {
@@ -221,16 +219,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "76.15%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "59.33%",
-    "time": 2340,
-    "timeDay": 432,
-    "timeWeek": 243,
-    "timeMonth": 255,
-    "timeYear": 2055,
+    "uptime": "76.18%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "12.28%",
+    "uptimeMonth": "4.21%",
+    "uptimeYear": "59.37%",
+    "time": 2336,
+    "timeDay": 709,
+    "timeWeek": 346,
+    "timeMonth": 273,
+    "timeYear": 2025,
     "dailyMinutesDown": {
       "2026-05-06": 379,
       "2026-05-05": 1440,
@@ -393,8 +391,7 @@
       "2025-05-19": 1440,
       "2025-05-18": 51,
       "2025-05-16": 18,
-      "2025-05-09": 20,
-      "2025-05-07": 318
+      "2025-05-09": 20
     }
   },
   {
@@ -407,12 +404,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.30%",
-    "time": 721,
-    "timeDay": 305,
-    "timeWeek": 445,
-    "timeMonth": 377,
-    "timeYear": 880,
+    "uptimeYear": "99.34%",
+    "time": 722,
+    "timeDay": 732,
+    "timeWeek": 525,
+    "timeMonth": 387,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2026-04-02": 62,
       "2026-04-01": 163,
@@ -432,8 +429,7 @@
       "2025-08-08": 21,
       "2025-07-04": 227,
       "2025-07-03": 297,
-      "2025-06-29": 278,
-      "2025-05-07": 318
+      "2025-06-29": 278
     }
   }
 ]
