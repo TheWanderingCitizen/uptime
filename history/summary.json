@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "up",
-    "uptime": "80.35%",
+    "uptime": "80.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.39%",
+    "uptimeMonth": "59.72%",
     "uptimeYear": "65.78%",
     "time": 1069,
-    "timeDay": 646,
-    "timeWeek": 2338,
-    "timeMonth": 976,
+    "timeDay": 839,
+    "timeWeek": 2347,
+    "timeMonth": 997,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2026-05-09": 120,
@@ -174,8 +174,7 @@
       "2025-07-09": 935,
       "2025-07-04": 227,
       "2025-07-03": 314,
-      "2025-06-29": 279,
-      "2025-05-24": 20
+      "2025-06-29": 279
     }
   },
   {
@@ -189,11 +188,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.29%",
-    "time": 3471,
-    "timeDay": 1726,
-    "timeWeek": 2381,
-    "timeMonth": 2516,
-    "timeYear": 3379,
+    "time": 3472,
+    "timeDay": 2474,
+    "timeWeek": 2338,
+    "timeMonth": 2537,
+    "timeYear": 3377,
     "dailyMinutesDown": {
       "2026-05-09": 120,
       "2026-03-08": 316,
@@ -220,16 +219,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "76.76%",
+    "uptime": "76.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.59%",
-    "uptimeYear": "60.53%",
-    "time": 2292,
-    "timeDay": 320,
-    "timeWeek": 713,
-    "timeMonth": 581,
-    "timeYear": 1938,
+    "uptimeMonth": "59.92%",
+    "uptimeYear": "60.80%",
+    "time": 2290,
+    "timeDay": 878,
+    "timeWeek": 737,
+    "timeMonth": 596,
+    "timeYear": 1932,
     "dailyMinutesDown": {
       "2026-05-09": 119,
       "2026-05-06": 379,
@@ -384,8 +383,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2025-05-25": 1440
     }
   },
   {
@@ -400,8 +398,8 @@
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.26%",
     "time": 724,
-    "timeDay": 145,
-    "timeWeek": 246,
+    "timeDay": 333,
+    "timeWeek": 253,
     "timeMonth": 413,
     "timeYear": 883,
     "dailyMinutesDown": {
