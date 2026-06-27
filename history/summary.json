@@ -4,17 +4,17 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
-    "status": "down",
+    "status": "up",
     "uptime": "81.05%",
-    "uptimeDay": "68.73%",
-    "uptimeWeek": "82.68%",
+    "uptimeDay": "65.55%",
+    "uptimeWeek": "82.22%",
     "uptimeMonth": "94.45%",
-    "uptimeYear": "65.21%",
+    "uptimeYear": "65.20%",
     "time": 1213,
-    "timeDay": 991,
-    "timeWeek": 3657,
-    "timeMonth": 2842,
-    "timeYear": 1377,
+    "timeDay": 987,
+    "timeWeek": 3451,
+    "timeMonth": 2796,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2025-06-29": 279,
       "2025-07-03": 314,
@@ -185,7 +185,7 @@
       "2026-06-24": 312,
       "2026-06-25": 657,
       "2026-06-26": 240,
-      "2026-06-27": 210
+      "2026-06-27": 256
     }
   },
   {
@@ -234,7 +234,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.12%",
+    "uptimeYear": "70.13%",
     "time": 2097,
     "timeDay": 1423,
     "timeWeek": 992,
