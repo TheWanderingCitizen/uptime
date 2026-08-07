@@ -4,13 +4,13 @@
     "url": "https://citizenwiki.cn/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=Home",
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
-    "status": "up",
-    "uptime": "82.06%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.07%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "65.52%",
-    "time": 1317,
+    "time": 1318,
     "timeDay": 657,
     "timeWeek": 605,
     "timeMonth": 646,
@@ -181,7 +181,8 @@
       "2026-06-27": 548,
       "2026-06-28": 136,
       "2026-06-29": 87,
-      "2026-06-30": 201
+      "2026-06-30": 201,
+      "2026-08-07": 0
     }
   },
   {
@@ -224,7 +225,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "79.22%",
+    "uptime": "79.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
