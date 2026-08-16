@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/citizenwiki.cn.ico",
     "slug": "citizenwiki-mediawiki",
     "status": "up",
-    "uptime": "82.27%",
+    "uptime": "82.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -224,7 +224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.citizenwiki.cn.ico",
     "slug": "passport-user-auth-service",
     "status": "up",
-    "uptime": "79.47%",
+    "uptime": "79.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -357,13 +357,13 @@
     "url": "https://translate.42kit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.40%",
-    "time": 822,
+    "time": 823,
     "timeDay": 388,
     "timeWeek": 6376,
     "timeMonth": 2093,
@@ -386,7 +386,8 @@
       "2026-04-02": 62,
       "2026-05-09": 119,
       "2026-05-18": 433,
-      "2026-08-09": 78
+      "2026-08-09": 78,
+      "2026-08-16": 0
     }
   }
 ]
