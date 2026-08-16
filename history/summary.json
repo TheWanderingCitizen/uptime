@@ -357,17 +357,17 @@
     "url": "https://translate.42kit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/translate.42kit.com.ico",
     "slug": "42-kit-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.40%",
-    "time": 823,
-    "timeDay": 388,
-    "timeWeek": 6376,
-    "timeMonth": 2093,
-    "timeYear": 871,
+    "time": 875,
+    "timeDay": 15404,
+    "timeWeek": 8562,
+    "timeMonth": 2902,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2025-09-11": 20,
       "2025-11-18": 25,
@@ -387,7 +387,7 @@
       "2026-05-09": 119,
       "2026-05-18": 433,
       "2026-08-09": 78,
-      "2026-08-16": 0
+      "2026-08-16": 24
     }
   }
 ]
